@@ -20,14 +20,4 @@
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NhMinh-2610&show_icons=true&theme=transparent&hide_border=true&title_color=333333&text_color=666666&icon_color=333333" alt="Minh's GitHub Stats" />
-</p>
-
-### 🌟 GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NhMinh-2610&theme=transparent" alt="Minh's Achievements" />
-</p>
