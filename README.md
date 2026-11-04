@@ -4,7 +4,7 @@
 
 🎓 K67 IT Student at Hanoi University of Science and Technology (HUST) <br>
 💻 Passionate about **AIoT**, **Embedded Systems**, and **Artificial Intelligence** <br>
-⚡ Fun fact: When I'm not debugging, you'll probably find me swimming, listening to music, or taking care of my Betta fish. <br>
+⚡ Fun fact: When I'm not debugging, you'll probably find me listening to music, or taking care of my Betta fish. <br>
 📫 Connect with me: [LinkedIn](#) • [nnhatminh2610@gmail.com](mailto:nnhatminh2610@gmail.com)
 
 ### 🛠️ Tech Stack
